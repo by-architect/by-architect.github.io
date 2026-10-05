@@ -6,7 +6,7 @@ Contact
 
 Publisher: byarchitect Email: byarchitect@disroot.org
 
-For questions, feedback, content or copyright requests, or privacy requests, write to the email address above. We aim to reply within [NUMBER] business days.
+For questions, feedback, content or copyright requests, or privacy requests, write to the email address above. We aim to reply within 14 business days.
 
 About the app
 
@@ -19,7 +19,7 @@ Offline notice when there is no internet connection
 Tap a story to read the full article on the original publisher's website
 About the entity behind the app
 
-Haber Küpü is developed and published by byarchitect, an independent developer based in [CITY, COUNTRY].
+Haber Küpü is developed and published by byarchitect, an independent developer based in Turkey.
 
 Where the news comes from
 
@@ -29,7 +29,7 @@ Content sources used by the app:
 
 https://bakinazik.github.io/rss/
 
-All articles, trademarks and logos belong to their respective owners. If you are a publisher and want your content removed from the app, or you have a copyright concern, please email us at [YOUR EMAIL ADDRESS] and we will respond promptly.
+All articles, trademarks and logos belong to their respective owners. If you are a publisher and want your content removed from the app, or you have a copyright concern, please email us at byarchitect@disroot.org and we will respond promptly.S
 
 Privacy
 No account is required, and the app does not ask for your name, email address, or location.
